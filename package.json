@@ -1,0 +1,26 @@
+{
+  "name": "@jackishere01/id-teapro",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackIsHere01/ID-teapro.git"
+  },
+  "keywords": [
+    "TEA",
+    "PROJECT"
+  ],
+  "author": "JackIsHere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackIsHere01/ID-teapro/issues"
+  },
+  "homepage": "https://github.com/JackIsHere01/ID-teapro#readme",
+  "dependencies": {
+    "id-teapro": "^1.0.0"
+  }
+}
